@@ -1,6 +1,6 @@
 # À propos
 
-Ceci est une expérience très fortement inspirée de [celle de Buster Benson](https://github.com/busterbenson/public/blob/master/Codex.md). Je n'ai toutefois pas l'intention d'arriver (à court terme) au même niveau de détail ou de rafinement que lui. Je suis tombé sur cette idée [le 1er janvier dernier](https://twitter.com/christianroy/status/683031382549999616) &mdash; une journée toute opportune pour réfléchir à ce qu'on est et ce qu'on veut devenir.
+Ceci est une expérience très fortement inspirée de [celle de Buster Benson](https://github.com/busterbenson/public/blob/master/Codex.md). Je n'ai toutefois pas l'intention d'arriver (à court terme) au même niveau de détail ou de rafinement que lui. Je suis tombé sur cette idée [le 1er janvier 2016](https://twitter.com/christianroy/status/683031382549999616) &mdash; une journée toute opportune pour réfléchir à ce qu'on est et ce qu'on veut devenir.
 
 # Principes et valeurs
 
@@ -9,18 +9,19 @@ Ceci est une expérience très fortement inspirée de [celle de Buster Benson](h
 * Une «moins bonne» idée bien exécutée vaut mieux qu'une excellente idée mal exécutée.
 * Une «moins bonne» décision prise et appliquée vaut mieux qu'une décision pas prise.
 * Ne pas jamais regretter d'avoir pris une décision.
-* Il est toujours préférable d'avoir des points de repère génériques _avant_ d'être face à une situation de prise de décision. J'appelle ça un _framework de décision_ et j'ai l'intention d'élaborer là-dessus.
+* Il est toujours préférable d'avoir des points de repère génériques _avant_ d'être face à une situation de prise de décision. J'appelle ça un _framework de décision_ et [j'ai un peu d'élaboré là-dessus](https://medium.com/@christian_roy/des-outils-pour-d%C3%A9cider-bfb0afd53e62#.e1pidhbgm).
 * Les «consultations 30%» sont toujours un bon investissement.
 * Les quantités sont importantes pour prendre des décisions, mais elles n'ont en général pas besoin d'être précises.
-* Les gens qui insistent trop sur les _quantités_ et leur précision le font en général parce qu'ils ne comprennent pas les _qualités_.
+* Les gens qui insistent trop sur les aspects _quantitatifs_ et leur précision le font en général parce qu'ils ne comprennent pas les asepcts _qualitatifs_.
 
 ## Éthique de travail
 
-* Compléter ce que je commence. Je réalise toutefois de plus en plus qu'il vaut parfois mieux ne pas le faire.
+* Compléter ce que je commence. Je réalise toutefois de plus en plus qu'il est parfois plus efficace ne pas le faire.
 * _Under promise, over deliver._
 * Toujours respecter ses engagements envers les autres. _Toujours_.
 * Une bonne idée mérite d'être mise par écrit.
-* Le temps des autres est précieux et je peux optimiser mes communications pour en tenir compte.
+ * et le corrolaire: une idée écrite mérite d'être commentée par écrit
+* Le temps des autres est précieux et je dois optimiser mes communications pour en tenir compte.
 * Humilité, mais pas fausse humilité.
 * La qualité de la langue, c'est important.
 
@@ -47,6 +48,10 @@ Ceci est une expérience très fortement inspirée de [celle de Buster Benson](h
 * En général, il vaut mieux rester un peu sur son appétit, que de surconsommer
 * C'est rarement une bonne idée de prendre des raccourcis ou de payer moins cher.
 * D'abord le _pourquoi_, ensuite le _quoi_, et ensuite le _qui_, le _comment_, le _où_ et le _quand_.
+* Vertues et attitudes que je veux cultiver:
+ * patience
+ * équilibre
+ * _sustainability_
 
 
 # Intérêts
