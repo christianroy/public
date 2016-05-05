@@ -47,7 +47,9 @@ Ceci est une expérience très fortement inspirée de [celle de Buster Benson](h
 
 * En général, il vaut mieux rester un peu sur son appétit, que de surconsommer
 * C'est rarement une bonne idée de prendre des raccourcis ou de payer moins cher.
-* D'abord le _pourquoi_, ensuite le _quoi_, et ensuite le _qui_, le _comment_, le _où_ et le _quand_.
+* D'abord le _pourquoi_, ensuite...
+ * pour les projets opérationnels, d'exécution: le _quoi_, et ensuite le _qui_, le _comment_, le _où_ et le _quand_;
+ * pour les projets stratégiques ou les décisions à long terme: le _qui_, le _quand_, et ensuite le _quoi_, le _où_ et le _comment_.
 * Vertues et attitudes que je veux cultiver:
  * patience
  * équilibre
