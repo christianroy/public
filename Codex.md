@@ -12,7 +12,7 @@ Ceci est une expérience très fortement inspirée de [celle de Buster Benson](h
 * Il est toujours préférable d'avoir des points de repère génériques _avant_ d'être face à une situation de prise de décision. J'appelle ça un _framework de décision_ et [j'ai un peu d'élaboré là-dessus](https://medium.com/@christian_roy/des-outils-pour-d%C3%A9cider-bfb0afd53e62#.e1pidhbgm).
 * Les «consultations 30%» sont toujours un bon investissement.
 * Les quantités sont importantes pour prendre des décisions, mais elles n'ont en général pas besoin d'être précises.
-* Les gens qui insistent trop sur les aspects _quantitatifs_ et leur précision le font en général parce qu'ils ne comprennent pas les asepcts _qualitatifs_.
+* Les gens qui insistent trop sur les aspects _quantitatifs_ et leur précision le font en général parce qu'ils ne comprennent pas les aspects _qualitatifs_.
 
 ## Éthique de travail
 
@@ -24,17 +24,20 @@ Ceci est une expérience très fortement inspirée de [celle de Buster Benson](h
 * Le temps des autres est précieux et je dois optimiser mes communications pour en tenir compte.
 * Humilité, mais pas fausse humilité.
 * La qualité de la langue, c'est important.
+* J'essaie d'apporter plus de réponses que de questions.
 
 ## Les gens
 
 * Tout le monde a des _patterns_, et c'est difficile de s'en sortir.
 * Personne n'est assez fort ou intelligent pour être «meilleur» qu'un groupe bien organisé.
 * Certaines personnes, dans certains contextes, peuvent être plus performantes que d'autres, et par des ordres de grandeur significatifs. Je veux être dans ce groupe et travailler avec des gens comme ça.
+* Je n'aime pas les drames et les effets de toge. J'ai du mal à travailler avec des gens qui aiment faire des drames.
 
 ## Les interactions
 
 * La gentillesse et la politesse ~~l'emportent~~ devraient toujours l'emporter. Et même si ce n'est pas le cas, je n'en déroge pas.
 * Je crois à l'importance des bons mots et des félicitations, mais les utilise avec parcimonie pour conserver leur impact. Je dois travailler à faire plus et mieux.
+* On peut avoir une opinion sans la partager. Il y a beaucoup de _partageurs_ d'opinion. J'en serai parfois, mais je veux que mon ratio actions/opinions soit très élevé.
 
 ## Apprentissages
 
@@ -54,6 +57,7 @@ Ceci est une expérience très fortement inspirée de [celle de Buster Benson](h
  * patience
  * équilibre
  * _sustainability_
+* Je valorise les actions et les réflexions qui s'inscrivent dans une perspective de long terme.
 
 
 # Intérêts
@@ -81,6 +85,7 @@ Ceci est une expérience très fortement inspirée de [celle de Buster Benson](h
 
 * [Mon blogue principal](http://christianroy.tumblr.com/)
 * [Sur Medium](https://medium.com/@christian_roy)
+* [Ma page de présentation sur le web](http://www.unchristianroy.com)
 
 # Divers
 
